@@ -1,0 +1,46 @@
+Input #1, Temp
+  If Temp <> "RossChinese" Then
+    MsgBox ("配置文件“RCH.rdb”文件格式无效，请查看帮助。")
+  Else
+    Input #1, Dictionaryfile
+    k = Left(Dictionaryfile, 1)
+    If k = "\" Then
+       Open App.Path + Dictionaryfile For Input As #2
+       Do While Not EOF(1)
+       Input #1, Temp
+       Loop
+       If Temp <> "<RSD ###3.1**>" Then
+        MsgBox ("配置文件“Des.rs!”文件格式无效，请查看帮助。")
+       Else
+        Input #1, db
+        ReDim m(db)
+        ReDim hc(db)
+        For i = 0 To db
+         Input #1, m(i), hc(i)
+        Next i
+       Close #2
+       End If
+     Close #1
+  Else
+    Open Dictionaryfile For Input As #2
+       Input #1, Temp
+       If Temp <> "<RSD ###3.1**>" Then
+        MsgBox ("配置文件“Des.rs!”文件格式无效，请查看帮助。")
+       Else
+        Input #1, db
+        ReDim m(db)
+        ReDim hc(db)
+        For i = 0 To db
+         Input #1, m(i), hc(i)
+        Next i
+       Close #2
+       End If
+     Close #1
+  End If
+End If
+Loop
+Close #1
+Open App.Path + "\RCH.rdb" For Append As #2
+Write #2, "Error!"
+Close #2
+End

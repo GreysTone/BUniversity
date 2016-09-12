@@ -1,0 +1,230 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Setup
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+Put Map Here.txt=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Map\Put Map Here.txt
+Put Tank Here.txt=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Tank\Put Tank Here.txt
+
+[Package|标准安装软件包 1|Files Released]
+坦克建造手册.docx=
+坦克建造手册.doc=
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+C:\Windows\System32\MCI32.OCX=
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|标准安装软件包 1|Files Added]
+坦克建造手册.doc=
+坦克建造手册.docx=
+put map here.txt=
+put tank here.txt=
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.doc=
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.docx=
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\System32\MSRDC20.OCX=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\RDO20CHS.DLL=Yes
+C:\Windows\System32\RDC20CHS.DLL=Yes
+C:\Windows\System32\TABCTL32.OCX=Yes
+C:\Windows\System32\TABCTCHS.DLL=Yes
+C:\Windows\System32\msflxgrd.ocx=Yes
+C:\Windows\System32\FLXGDCHS.DLL=Yes
+C:\Windows\System32\comdlg32.ocx=Yes
+C:\Windows\System32\CMDLGCHS.DLL=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCMCCHS.DLL=Yes
+C:\Windows\System32\mscomct2.ocx=Yes
+C:\Windows\System32\MSCC2CHS.DLL=Yes
+C:\Windows\System32\MSINET.OCX=Yes
+C:\Windows\System32\INETCHS.DLL=Yes
+C:\Windows\System32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\Windows\System32\RCHTXCHS.DLL=Yes
+C:\Windows\System32\MSCHRT20.OCX=Yes
+C:\Windows\System32\MSCH2CHS.DLL=Yes
+C:\Windows\System32\mswinsck.ocx=Yes
+C:\Windows\System32\WINSKCHS.DLL=Yes
+C:\Windows\System32\MSMAPI32.OCX=Yes
+C:\Windows\System32\MSMPICHS.DLL=Yes
+C:\Windows\System32\MCI32.OCX=Yes
+C:\Windows\System32\MCICHS.DLL=Yes
+C:\Windows\System32\PICCLP32.OCX=Yes
+C:\Windows\System32\PCCLPCHS.DLL=Yes
+C:\Windows\System32\SYSINFO.OCX=Yes
+C:\Windows\System32\SYSINCHS.DLL=Yes
+C:\Windows\System32\MSCOMM32.OCX=Yes
+C:\Windows\System32\MSCOMCHS.DLL=Yes
+C:\Windows\System32\MSMASK32.OCX=Yes
+C:\Windows\System32\MSMSKCHS.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTCHS.DLL=Yes
+C:\Windows\System32\DATGDCHS.DLL=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\DATLSCHS.DLL=Yes
+C:\Windows\System32\comct332.ocx=Yes
+C:\Windows\System32\CMCT3CHS.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCCHS.DLL=Yes
+C:\Windows\System32\MSHFLXGD.OCX=Yes
+C:\Windows\System32\MSHFGCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\TankAI.exe=Yes
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Map\Put Map Here.txt=Yes
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Tank\Put Tank Here.txt=Yes
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.doc=Yes
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.docx=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\TankAI.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSRDC20.OCX=$(WinSysPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\RDO20CHS.DLL=$(WinSysPath)
+C:\Windows\System32\RDC20CHS.DLL=$(WinSysPath)
+C:\Windows\System32\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\System32\TABCTCHS.DLL=$(WinSysPath)
+C:\Windows\System32\msflxgrd.ocx=$(WinSysPath)
+C:\Windows\System32\FLXGDCHS.DLL=$(WinSysPath)
+C:\Windows\System32\comdlg32.ocx=$(WinSysPath)
+C:\Windows\System32\CMDLGCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCMCCHS.DLL=$(WinSysPath)
+C:\Windows\System32\mscomct2.ocx=$(WinSysPath)
+C:\Windows\System32\MSCC2CHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSINET.OCX=$(WinSysPath)
+C:\Windows\System32\INETCHS.DLL=$(WinSysPath)
+C:\Windows\System32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\RCHTXCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\System32\MSCH2CHS.DLL=$(WinSysPath)
+C:\Windows\System32\mswinsck.ocx=$(WinSysPath)
+C:\Windows\System32\WINSKCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSMAPI32.OCX=$(WinSysPath)
+C:\Windows\System32\MSMPICHS.DLL=$(WinSysPath)
+C:\Windows\System32\MCI32.OCX=$(WinSysPath)
+C:\Windows\System32\MCICHS.DLL=$(WinSysPath)
+C:\Windows\System32\PICCLP32.OCX=$(WinSysPath)
+C:\Windows\System32\PCCLPCHS.DLL=$(WinSysPath)
+C:\Windows\System32\SYSINFO.OCX=$(WinSysPath)
+C:\Windows\System32\SYSINCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\System32\MSCOMCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSMASK32.OCX=$(WinSysPath)
+C:\Windows\System32\MSMSKCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTCHS.DLL=$(WinSysPath)
+C:\Windows\System32\DATGDCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\DATLSCHS.DLL=$(WinSysPath)
+C:\Windows\System32\comct332.ocx=$(WinSysPath)
+C:\Windows\System32\CMCT3CHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSHFLXGD.OCX=$(WinSysPath)
+C:\Windows\System32\MSHFGCHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Help\坦克建造手册.doc=$(AppPath)\HelpE:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Help\坦克建造手册.docx=$(AppPath)\HelpE:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Map\Put Map Here.txt=$(AppPath)\MapE:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Tank\Put Tank Here.txt=$(AppPath)\Tank
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\TankAI.exe=$(AppPath)
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Map\Put Map Here.txt=$(AppPath)\Map
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Tank\Put Tank Here.txt=$(AppPath)\Tank
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.doc=$(AppPath)\Help
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.docx=$(AppPath)\Help
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\TankAI.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Help\坦克建造手册.doc=No
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Help\坦克建造手册.docx=No
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Map\Put Map Here.txt=No
+E:\A07 程序设计资料\程序设计源码\VB\01 Have been Finished\AITank\Tank\Put Tank Here.txt=No
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\TankAI.exe=No
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Map\Put Map Here.txt=No
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Tank\Put Tank Here.txt=No
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.doc=No
+E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Help\人工智能坦克对战[AI Tank] 帮助手册.docx=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=RStudio AI Tank
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=RStudio AI Tank
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|RStudio AI Tank]
+Icon1=TankAI.exe
+Title1=RStudio AI Tank
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=坦克建造手册.docx
+Title2=帮助手册DOCX
+StartIn2=$(AppPath)
+Key2=Icon5
+Icon3=坦克建造手册.doc
+Title3=帮助手册DOC
+StartIn3=$(AppPath)
+Key3=Icon6
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Setup
+ProjectFolder=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent
+ServerSideCab=
+File1=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Setup\setup.exe
+File2=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Setup\Setup.Lst
+File3=E:\A07 程序设计资料\程序设计源码\VB\AI Tank\AITank011_Sent\Setup\TankAI.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

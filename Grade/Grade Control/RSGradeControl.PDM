@@ -1,0 +1,153 @@
+[Root]
+Most Recent Package=标准安装软件包 1
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\A07 程序设计资料\程序设计源码\VB\Grade Control\SetupPackage
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 1|Files Added]
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\Password.txt=
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\RSGradeControl.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6CHS.DLL=Yes
+C:\Windows\System32\MSDBRPTR.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\STDFTCHS.DLL=Yes
+C:\Windows\System32\DBRPRCHS.DLL=Yes
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=Yes
+C:\Windows\System32\msjet40.dll=Yes
+C:\Windows\System32\msjter40.dll=Yes
+C:\Windows\System32\msjint40.dll=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\mswstr10.dll=Yes
+C:\Windows\System32\mswdat10.dll=Yes
+C:\Windows\System32\msrd2x40.dll=Yes
+C:\Windows\System32\msrd3x40.dll=Yes
+C:\Windows\System32\msrepl40.dll=Yes
+C:\Windows\System32\msjtes40.dll=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=Yes
+C:\Windows\System32\RCHTXCHS.DLL=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCMCCHS.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\Password.txt=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\RSGradeControl.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6CHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\STDFTCHS.DLL=$(WinSysPath)
+C:\Windows\System32\DBRPRCHS.DLL=$(WinSysPath)
+C:\Program Files\Common Files\microsoft shared\DAO\dao360.dll=$(MSDAOPath)
+C:\Windows\System32\msjet40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjter40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjint40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswstr10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\mswdat10.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msrepl40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\msjtes40.dll=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\GAPI32.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\RCHTXCHS.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCMCCHS.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\Password.txt=$(AppPath)
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\RSGradeControl.exe=No
+E:\A07 程序设计资料\程序设计源码\VB\Grade Control\Password.txt=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=single
+Size=
+Title=RSGradeControl Alpha
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=RSGradeControl
+PrivateGroup0=-1
+Parent0=$(Programs)
+Group1=$(Start Menu)
+PrivateGroup1=-1
+Parent1=
+
+[Package|标准安装软件包 1|RSGradeControl]
+Icon1=Password.txt
+Title1=PassWorld
+StartIn1=$(AppPath)
+Key1=Icon6
+Icon2=RSGradeControl.exe
+Title2=RSGradeControl
+StartIn2=$(AppPath)
+Key2=Icon1
+
+[Package|标准安装软件包 1|$(Start Menu)]
+Icon1=RSGradeControl.exe
+Title1=RSGradeControl
+StartIn1=$(AppPath)
+Key1=Icon5
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=E:\A07 程序设计资料\程序设计源码\VB\Grade Control\SetupPackage
+ProjectFolder=E:\A07 程序设计资料\程序设计源码\VB\Grade Control
+ServerSideCab=
+File1=E:\A07 程序设计资料\程序设计源码\VB\Grade Control\SetupPackage\setup.exe
+File2=E:\A07 程序设计资料\程序设计源码\VB\Grade Control\SetupPackage\Setup.Lst
+File3=E:\A07 程序设计资料\程序设计源码\VB\Grade Control\SetupPackage\RSGradeControl.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

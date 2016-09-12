@@ -1,0 +1,18 @@
+"[2011/6/23-23:50:06]
+[System Catch] [End<Start] On [Md_Public] By [Delete]"
+"[2011/6/24-7:26:58]
+[System Catch] [Data Check Unpass] On [FrmMain] By [Ignore]"
+"[2011/6/24-7:54:21]
+[System Catch] [WrongDateFormat] On [Mod_Public] By [Delete]"
+"[2011/6/24-7:55:50]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
+"[2011/6/24-7:57:04]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
+"[2011/6/24-7:57:12]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
+"[2011/7/16-20:50:59]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
+"[2011/7/16-20:51:13]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
+"[2011/7/16-20:58:47]
+[System Catch] [End<Start] On [FrmManageTerm] By [Delete]"
