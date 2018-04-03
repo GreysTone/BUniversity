@@ -4,7 +4,7 @@
 
 ******
 
-* [AI Tank](BUniversity/tree/master/TankAI/README.md)
-* [Grade Controller](BUniversity/tree/master/Grade/README.md)
-* [Chinese Character Encryption](BUniversity/tree/master/Encryption/README.md)
+* [AI Tank](./TankAI/README.md)
+* [Grade Controller](./Grade/README.md)
+* [Chinese Character Encryption](./Encryption/README.md)
 
